@@ -1,6 +1,7 @@
 ---
 title: ti voglio bene
 excerpt: a mirror about love
+coverImage: /assets/jok copia.jpg
 author:
   name: nico
 ---
